@@ -16,7 +16,12 @@ provide simple examples for Git training demos.
 
 ## Deployment
 
-Thi is a simple web project, deployment 
+This is a simple web project, deployment 
 can be on any web server or evel local file system.
 
 Sample website with plenty of files for demos
+
+### Copyright
+
+
+2021 Git.Training.

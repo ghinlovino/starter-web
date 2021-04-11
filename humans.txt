@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gina Lovino 	gina.lovino@accenture.com	@ghinlovino
 
 # THANKS
 
